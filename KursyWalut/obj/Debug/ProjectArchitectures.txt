@@ -1,0 +1,1 @@
+D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\KursyWalut.csproj;neutral

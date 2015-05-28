@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LATITUDE</Machine>
+    <WindowsUser>Paweł</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>017aa8da-912d-4ce5-9075-e7c401876596</PackageIdentityName>
+    <IntermediateOutputPath>D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8A5C26A83CC74125BBFEF0B41C86FBD767B49E52058ABB700D63821EA91AAE6F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>017aa8da-912d-4ce5-9075-e7c401876596_1.0.0.0_neutral__ka23bv60pj736</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>017aa8da-912d-4ce5-9075-e7c401876596_ka23bv60pj736!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>017aa8da-912d-4ce5-9075-e7c401876596</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=rwajman</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-28T17:28:55.470</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\bin\Debug\XMLexample.exe">
+      <PackagePath>XMLexample.exe</PackagePath>
+      <Modified>2015-05-28T17:28:55.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T03:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-11-13T10:28:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-28T17:28:54.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\bin\Debug\history.xbf">
+      <PackagePath>history.xbf</PackagePath>
+      <Modified>2015-05-28T17:28:54.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-28T17:28:54.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\bin\Debug\XMLexample.xr.xml">
+      <PackagePath>XMLexample.xr.xml</PackagePath>
+      <Modified>2015-05-28T17:28:54.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Szkoła\Mobilne\UkonczoneKursyWalutXaml\04 - XMLexampleWithFormatedDatesOfCurrency\KursyWalut\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-28T17:28:55.333</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
